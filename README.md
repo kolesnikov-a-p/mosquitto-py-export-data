@@ -1,5 +1,9 @@
 # mosquitto-py-export-data
 
+Mosquitto plugin in Python.
+
+Build
+=========
 apt install libwebsockets8 libwebsockets-dev libc-ares2 libc-ares-dev openssl uuid uuid-dev python3-dev
 
 wget http://mosquitto.org/files/source/mosquitto-1.5.7.tar.gz && tar xzvf mosquitto-1.5.7.tar.gz && cd mosquitto-1.5.7
