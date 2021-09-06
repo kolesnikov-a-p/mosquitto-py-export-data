@@ -1,0 +1,3 @@
+*.pyc
+*.o
+plugin_py_export.so
